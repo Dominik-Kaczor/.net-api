@@ -1,0 +1,15 @@
+/Users/michalkusy/Documents/test/.net-api/bin/Debug/net5.0/.net-api.deps.json
+/Users/michalkusy/Documents/test/.net-api/bin/Debug/net5.0/.net-api.runtimeconfig.json
+/Users/michalkusy/Documents/test/.net-api/bin/Debug/net5.0/.net-api.runtimeconfig.dev.json
+/Users/michalkusy/Documents/test/.net-api/bin/Debug/net5.0/.net-api.dll
+/Users/michalkusy/Documents/test/.net-api/bin/Debug/net5.0/ref/.net-api.dll
+/Users/michalkusy/Documents/test/.net-api/bin/Debug/net5.0/.net-api.pdb
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.csproj.AssemblyReference.cache
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.AssemblyInfoInputs.cache
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.AssemblyInfo.cs
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.csproj.CoreCompileInputs.cache
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.dll
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/ref/.net-api.dll
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.pdb
+/Users/michalkusy/Documents/test/.net-api/obj/Debug/net5.0/.net-api.genruntimeconfig.cache
